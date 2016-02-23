@@ -2,7 +2,7 @@ package com.ritepros;
 
 public class CreateBranchTest {
 
-	public static void main(String[] args) {
+	public void display() {
 		// TODO Auto-generated method stub
 		System.out.println("joseph");
 		System.out.println("we created a new change");
